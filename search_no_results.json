@@ -1,0 +1,19 @@
+{
+    "page": "https://www.alaskaair.com/Shopping/Flights/Shop",
+    "action": "flight search",
+    "session_id": "12345xyz",
+    "customer_id": "987654321",
+    "timestamp": 1615114980,
+    "view_by": "Schedule",
+    "stops": ["Nonstop", "1 stop", "2 stops"],
+    "upgrade_fare_type": "Mileage",
+    "lowest_refundable": "lowest",
+    "sort_by": "stops",
+    "depart": {
+        "airport": "YVR"
+    },
+    "destination": {
+        "airport": "SFO"
+    },
+    "results": []
+}

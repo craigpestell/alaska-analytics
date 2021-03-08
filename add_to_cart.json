@@ -1,0 +1,22 @@
+{
+    "page": "https://www.alaskaair.com/Shopping/Cart/AddFlight?fareMatrixSelection=1%7C6%3A1&priceMatrixSelection=1-438%7C6-579%3A1-438",
+    "action": "add to cart",
+    "session_id": "12345xyz",
+    "customer_id": "987654321",
+    "timestamp": 1615114980,
+    "itinerary": {
+        "price_main": 438,
+        "flights": [{
+                "flight_num": 3443,
+                "depart": 1615114980,
+                "arrive": 1615114980
+            },
+            {
+                "flight_num": 3470,
+                "depart": 1615114980,
+                "arrive": 1615114980
+            }
+        ],
+        "duration": "283"
+    }
+}

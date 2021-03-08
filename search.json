@@ -1,0 +1,54 @@
+{
+    "page": "https://www.alaskaair.com/Shopping/Flights/Shop",
+    "action": "flight search",
+    "session_id": "12345xyz",
+    "customer_id": "987654321",
+    "timestamp": 1615114980,
+    "view_by": "Schedule",
+    "stops": ["Nonstop", "1 stop", "2 stops"],
+    "upgrade_fare_type": "Mileage",
+    "lowest_refundable": "lowest",
+    "sort_by": "stops",
+    "depart": {
+        "airport": "YVR"
+    },
+    "destination": {
+        "airport": "SFO"
+    },
+    "results": [{
+        "price_main": 438,
+        "price_fc": 579,
+        "price_upgrade": 526,
+        "duration": 283,
+        "flights": [
+            {
+                "flight_num": 3443,
+                "depart": 1615114980,
+                "arrive": 1615114980
+            },
+            {
+                "flight_num": 3470,
+                "depart": 1615114980,
+                "arrive": 1615114980
+            }
+        ]
+    },
+    {
+        "price_main": 438,
+        "price_fc": 579,
+        "price_upgrade": 526,
+        "duration": 283,
+        "flights": [
+            {
+                "flight_num": 3443,
+                "depart": 1615114980,
+                "arrive": 1615114980
+            },
+            {
+                "flight_num": 3470,
+                "depart": 1615114980,
+                "arrive": 1615114980
+            }
+        ]
+    }]
+}
